@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![jkjk](https://cn.widgetstore.net/view/index.html?q=807102f6623d939101d5b1cd3ee9e8d6.22896bbf63d4bea400f56e8a6c9d7bca)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZacharyLauGitHub)](https://cn.widgetstore.net/view/index.html?q=807102f6623d939101d5b1cd3ee9e8d6.22896bbf63d4bea400f56e8a6c9d7bca)
