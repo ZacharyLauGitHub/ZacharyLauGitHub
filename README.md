@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-htmlpreview.github.io/?https://apption.co/embeds/pmn632
+http://htmlpreview.github.io/https://apption.co/embeds/pmn632
